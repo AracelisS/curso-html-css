@@ -1,3 +1,3 @@
 # curso-html-css
 
-Creado por Aracelis Severino
+Creado por Aracelis Severino. 
