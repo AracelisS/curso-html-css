@@ -1,6 +1,6 @@
 
 
 body div{
-    background: rgb(63, 94, 251);
-    background: radial-gradient(circle, rgba(63, 94, 251, 1) 0%, rgb(247, 160, 177) 100%);
+    background: rgb(80, 106, 231);
+    background: radial-gradient(circle, rgb(231, 80, 211) 0%, rgb(93, 142, 206) 100%);
 }
